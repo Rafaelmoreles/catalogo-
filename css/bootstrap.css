@@ -12079,7 +12079,9 @@ textarea.form-control-lg {
 }
 body {
   background-image: linear-gradient(90deg, #EE82EE, #FFD1DC);
+  
 }
+
 
 [data-bs-theme=dark] body {
   color: #fff;
