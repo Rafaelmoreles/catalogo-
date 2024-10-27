@@ -132,6 +132,18 @@
   --bs-form-invalid-border-color: #fd7e14;
 }
 
+.parte3 {
+  flex: 0 0 100%;
+  background-color: #7d478a;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgb(253, 253, 253);
+  margin: 0;
+  padding: 0;
+  background-position: center;
+  text-align: center;
+}
+
 [data-bs-theme=dark] {
   color-scheme: dark;
   --bs-body-color: #dee2e6;
@@ -227,10 +239,13 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   font-weight: 700;
   line-height: 1.2;
   color: var(--bs-heading-color);
+  
 }
 
 h1, .h1 {
   font-size: calc(1.375rem + 1.5vw);
+  color: hsl(310, 43%, 46%);
+  
 }
 @media (min-width: 1200px) {
   h1, .h1 {
@@ -12062,7 +12077,7 @@ textarea.form-control-lg {
   }
 }
 body {
-  background-image: linear-gradient(90deg, #33b7e2, #5e62b0, #dc307c);
+  background-image: linear-gradient(90deg, #EE82EE, #FFD1DC);
 }
 
 [data-bs-theme=dark] body {
