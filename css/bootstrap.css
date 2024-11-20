@@ -131,18 +131,7 @@
   --bs-form-invalid-color: #fd7e14;
   --bs-form-invalid-border-color: #fd7e14;
 }
-.whatsapp-button {
-  background-color: #4CAF50; /* Color verde de WhatsApp */
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  border-radius: 8px;
-  margin: 0.5rem;
-  
-}
+
 html, body {
   height: 100%;
   margin: 0;
